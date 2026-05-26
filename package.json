@@ -1,0 +1,25 @@
+{
+  "name": "opportunet",
+  "version": "1.0.0",
+  "description": "> An AI agent that hunts, scores, and surfaces the right opportunities for you — hackathons, grants, freelance gigs, Web3 projects — before they slip through.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xkhingx/opportunet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/0xkhingx/opportunet/issues"
+  },
+  "homepage": "https://github.com/0xkhingx/opportunet#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "mongodb": "^7.2.0"
+  }
+}
